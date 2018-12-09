@@ -1,0 +1,65 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="niva.com" resolutions="1x" timestamp="1544380872970">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="267621494" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="oswald-light.woff" crc="4275034179"/>
+    <file name="oswald-light.eot" crc="179195116"/>
+    <file name="oswald-light.svg" crc="233766853"/>
+    <file name="oswald-bold.woff" crc="123568231"/>
+    <file name="oswald-bold.eot" crc="3844765328"/>
+    <file name="oswald-bold.svg" crc="442655857"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u663.php" crc="3864936088" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="quarry-dust-mining-rocks-conveyor_3840x2160.jpg" crc="259875090" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fossil-fuels.svg" crc="4080945095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fossil-fuels_poster_.png" crc="3813001172" ref="index"/>
+    <file name="belshina.jpg" crc="4163621234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f934415b507aa8b87011a3ecbfeb53e7-crop-u592.jpg" crc="4257055281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keramin.jpg" crc="4248230995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uz-potash.png" crc="20845472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uralkali.png" crc="3845652429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="og_image.jpg" crc="519072837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="belaz_logo_2-crop-u636.jpg" crc="4052226519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="russol.jpg" crc="4088073545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="belaruskali.jpg" crc="33988010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="514540299" seo="true" mt="1544380704132" redirect="true"/>
+</manifest>

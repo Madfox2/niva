@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://niva.com/index.html</loc>
+    <lastmod>2018-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://niva.com/images/fossil-fuels.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/belshina.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/f934415b507aa8b87011a3ecbfeb53e7-crop-u592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/keramin.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/uz-potash.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/uralkali.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/og_image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/belaz_logo_2-crop-u636.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/russol.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://niva.com/images/belaruskali.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
