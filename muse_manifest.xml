@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="niva.com" resolutions="1x" timestamp="1544380872970">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="niva.com" resolutions="1x" timestamp="1544632054121">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="267621494" ref="index"/>
+    <file name="index.css" crc="4154640848" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="oswald-light.woff" crc="4275034179"/>
@@ -18,21 +18,22 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u663.php" crc="3864936088" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="quarry-dust-mining-rocks-conveyor_3840x2160.jpg" crc="259875090" ref="index">
+    <file name="chimney-3817442.jpg" crc="3916645078" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fossil-fuels.svg" crc="4080945095" seo="true" ref="index">
+    <file name="machine-2881171-crop-u777.jpg" crc="4084556671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fossil-fuels_poster_.png" crc="3813001172" ref="index"/>
+    <file name="welding-2819144.jpg" crc="143495927" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tied-up-1792237.jpg" crc="425415629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="belshina.jpg" crc="4163621234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -60,6 +61,9 @@
     <file name="belaruskali.jpg" crc="33988010" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="molten-metal-571823.jpg" crc="4069013934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="514540299" seo="true" mt="1544380704132" redirect="true"/>
+  <file name="index.html" crc="97513810" seo="true" mt="1544631937333" redirect="true"/>
 </manifest>
